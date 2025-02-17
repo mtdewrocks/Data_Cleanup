@@ -3,11 +3,11 @@ An example of a data cleanup and data transformation project I've done. The full
 
 Some of the data cleanup steps included in this project are:
 
-- Skipping unnecessary rows at the top and bottom of the data
+* Skipping unnecessary rows at the top and bottom of the data
 * Deleting unnecessary columns from the dataset
-*Removing extra data from the year string to only return a 4 digit year
-*Deleting columns that have specific special characters at the end as they are subsets of a group and this prevents double counting
-*Renaming the columns to get the months labeled in the correct row
-*Transforming the data so a month over month and year over year calculation can be added
-*Transforming the data to structure it in a way that makes data visualization more easy and effective
-*Clearing out extra string characters that are not needed in the country column
+* Removing extra data from the year string to only return a 4 digit year
+* Deleting columns that have specific special characters at the end as they are subsets of a group and this prevents double counting
+* Renaming the columns to get the months labeled in the correct row
+* Transforming the data so a month over month and year over year calculation can be added
+* Transforming the data to structure it in a way that makes data visualization more easy and effective
+* Clearing out extra string characters that are not needed in the country column
